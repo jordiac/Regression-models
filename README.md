@@ -9,5 +9,5 @@ This document will answer the following questions:
 
    -2:Quantify the MPG difference between automatic and manual transmissions.
    
-   [Assignment](http://rawgit.com/jordiac/Regression-models/master/Regr_Model.html)
+   Click here: [Assignment](http://rawgit.com/jordiac/Regression-models/master/Regr_Model.html)
 
