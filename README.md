@@ -4,7 +4,7 @@ The main objective is to analyze the impact of the automatic/manual transmission
 
 This document will answer the following questions:
 
-   -1:Is an automatic or manual transmission better for MPG?
+   -1:Is an automatic or manual transmission better for MPG consumption?
 
 
    -2:Quantify the MPG difference between automatic and manual transmissions.
